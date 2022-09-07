@@ -3,10 +3,10 @@
 
 ### Downloads libraries
 
--React Router Dom
--Bootstrap
--React Bootstrap
--React Router Dom
--Firebase
+- React Router Dom
+- Bootstrap
+- React Bootstrap
+- React Router Dom
+- Firebase
 
 
